@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# Приложение реакт-пицца, стэк
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **ReactJS 18**
+- **TypeScript**
+- **Redux Toolkit** (хранение данных / пицц)
+- **React Router v6** (навигация)
+- **Axios + Fetch** (отправка запроса на бэкенд)
+- **React Hooks** (хуки)
+- **CSS-Modules / SCSS** (стилизация)
 
-## Available Scripts
-
-In the project directory, you can run:
+Чтобы запустить проект, пропишите в терминале команду:
 
 ### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
